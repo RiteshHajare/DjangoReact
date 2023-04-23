@@ -1,0 +1,16 @@
+.app{
+  margin: 3rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+td{
+  padding: 1rem 2.3rem;
+}
+
+button{
+  display: block;
+  margin: 1rem auto;
+  cursor: pointer;
+}
